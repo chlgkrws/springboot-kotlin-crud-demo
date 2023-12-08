@@ -22,7 +22,7 @@ or
 java -jar build/libs/kotlin.jar
 ```
 
-### 3. 엔드포인트 테스트
+### 3. 엔드포인트
 - GET /members: 모든 멤버 조회
 - POST /members: 새 멤버 추가
 - PATCH /members/{id}: 특정 멤버 수정
